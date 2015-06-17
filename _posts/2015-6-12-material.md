@@ -6,4 +6,5 @@ published: true
 
 
 [hacker guide](http://austenallred.com/user-acquisition/book/)
+
 [javascript resources](https://www.javascript.com/resources)
