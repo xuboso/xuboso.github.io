@@ -5,6 +5,8 @@ published: true
 ---
 
 
+[gitbook](https://www.gitbook.com/explore)
+
 [hacker guide](http://austenallred.com/user-acquisition/book/)
 
 [javascript resources](https://www.javascript.com/resources)
