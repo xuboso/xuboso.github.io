@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a PHP developer and I have worked with Symfony2 for more than one year.
 
-### More Information
+I'm expert in Symfony2, Doctrine ORM.
 
-A place to include any other types of information that you'd like to include about yourself.
+I know well about html, css, jquery and a little javascript.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](xubobox@gmail.com)
