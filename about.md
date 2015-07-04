@@ -10,7 +10,7 @@ I'm expert in Symfony2, Doctrine ORM.
 
 I know well about html, css, jquery and a little javascript.
 
-### tools I used
+### tools I used to build websites
 + composer 
 + less
 + sass
