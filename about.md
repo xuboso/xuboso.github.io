@@ -10,7 +10,15 @@ I'm expert in Symfony2, Doctrine ORM.
 
 I know well about html, css, jquery and a little javascript.
 
+### tools I used
++ composer 
++ less
++ sass
++ Bootstrap3
++ Semantic UI
++ Browser-sync
+
 
 ### Contact me
 
-[mailme](xubobox@gmail.com)
+[mailme](mailto:xubobox@gmail.com)
