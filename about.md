@@ -13,4 +13,4 @@ I know well about html, css, jquery and a little javascript.
 
 ### Contact me
 
-[email@domain.com](xubobox@gmail.com)
+[mailme](xubobox@gmail.com)
