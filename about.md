@@ -18,6 +18,10 @@ I know well about html, css, jquery and a little javascript.
 + Semantic UI
 + Browser-sync
 
+### more information
+I want to be a full stack developer, so in the free time I also learn about java recently.
+I use the panda chrome extension to find interesting and latest things about the internet.
+
 
 ### Contact me
 
