@@ -6,11 +6,12 @@ permalink: /about/
 
 I'm a PHP developer and I have worked with Symfony2 for more than one year.
 
-I'm expert in Symfony2, Doctrine ORM.
+I'm expert in Symfony2, Doctrine ORM and mySQL.
 
 I know well about html, css, jquery and a little javascript.
 
 ### tools I used to build websites
++ git
 + composer 
 + less
 + sass
