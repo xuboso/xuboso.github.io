@@ -15,3 +15,10 @@ published: true
 
 ## 发现有趣的,探索有价值的
 [elm-lang](http://elm-lang.org/docs)
+
+## Symfony Rest API
++ http://allan-simon.github.io/blog/posts/create-a-rest-api-with-symfony2/
++ http://martinfowler.com/articles/richardsonMaturityModel.html
++ https://github.com/interagent/http-api-design
++ http://welcometothebundle.com/symfony2-rest-api-the-best-2013-way/
++ http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/
