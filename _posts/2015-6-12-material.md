@@ -22,3 +22,5 @@ published: true
 + https://github.com/interagent/http-api-design
 + http://welcometothebundle.com/symfony2-rest-api-the-best-2013-way/
 + http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/
+
+[learn HTTP](https://tools.ietf.org/html/rfc2616)
