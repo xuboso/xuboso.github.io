@@ -24,3 +24,4 @@ published: true
 + http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/
 
 [learn HTTP](https://tools.ietf.org/html/rfc2616)
+[Github API schema](https://developer.github.com/v3/#schema)
