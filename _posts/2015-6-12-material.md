@@ -26,3 +26,5 @@ published: true
 [learn HTTP](https://tools.ietf.org/html/rfc2616)
 
 [Github API schema](https://developer.github.com/v3/#schema)
+
+[Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
