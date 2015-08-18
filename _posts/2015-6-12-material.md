@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 学习资源
+title: Learn Resources
 published: true
 ---
 
