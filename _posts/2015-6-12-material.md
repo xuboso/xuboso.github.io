@@ -32,3 +32,7 @@ published: true
 [CSS Colours](http://colours.neilorangepeel.com/)
 
 [python学习资源](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
+
+[丰富的前端学习资源](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+[hackr.io](http://hackr.io/)
