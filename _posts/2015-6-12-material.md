@@ -29,6 +29,7 @@ published: true
 
 ## python guide
 [python-guide](http://docs.python-guide.org/en/latest/)
+
 [learn python in Y minutes](http://learnxinyminutes.com/docs/python/)
 
 ## 发现有趣的,探索有价值的
