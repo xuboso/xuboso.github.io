@@ -30,3 +30,5 @@ published: true
 [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 [CSS Colours](http://colours.neilorangepeel.com/)
+
+[python学习资源](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
