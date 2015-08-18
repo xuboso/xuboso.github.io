@@ -31,10 +31,10 @@ published: true
 [elm-lang](http://elm-lang.org/docs)
 
 ## Symfony Rest API
-+ [1](http://allan-simon.github.io/blog/posts/create-a-rest-api-with-symfony2/)
-+ [2](http://martinfowler.com/articles/richardsonMaturityModel.html)
-+ [3](https://github.com/interagent/http-api-design)
-+ [4](http://welcometothebundle.com/symfony2-rest-api-the-best-2013-way/)
-+ [5](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/)
++ [create a reset api with symfony2](http://allan-simon.github.io/blog/posts/create-a-rest-api-with-symfony2/)
++ [richard](http://martinfowler.com/articles/richardsonMaturityModel.html)
++ [http-api-design](https://github.com/interagent/http-api-design)
++ [reset api the best way](http://welcometothebundle.com/symfony2-rest-api-the-best-2013-way/)
++ [symfony2 rest api the right way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/)
 
 
