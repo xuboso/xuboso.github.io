@@ -27,4 +27,4 @@ I use the panda chrome extension to find interesting and latest things about the
 
 ### Contact me
 
-[mailme](mailto:xubobox@gmail.com)
+[mail me](mailto:xubobox@gmail.com)
