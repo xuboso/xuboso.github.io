@@ -8,6 +8,6 @@ published: true
 
 [Laravel video tutorial](https://laracasts.com/series/laravel-5-fundamentals)
 
-[awesome-laravel](https://github.com/ziadoz/awesome-php)
+[awesome-laravel](https://github.com/chiraggude/awesome-laravel)
 
 [awesome-php](https://github.com/ziadoz/awesome-php)
