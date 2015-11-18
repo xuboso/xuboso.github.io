@@ -58,3 +58,6 @@ published: true
     }
 
 ```
+
+### laravel how to resolve jsonp request
+`return response()->json(['result' => 'hello world'])->setCallback(Input::get('callback'));`
