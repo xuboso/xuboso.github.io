@@ -63,3 +63,7 @@ published: true
 ``` php
 return response()->json(['result' => 'hello world'])->setCallback(Input::get('callback'));
 ```
+
+### if you use laravel role based permission package Zizaco/entrust, you may get this error
+you can go to [github issuse](https://github.com/Zizaco/entrust/issues/379#issuecomment-148379518) for answer
+![laravel error image](/images/posts/laravel-error-1.png)
