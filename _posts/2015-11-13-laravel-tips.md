@@ -69,3 +69,5 @@ you can go to [github issuse](https://github.com/Zizaco/entrust/issues/379#issue
 ![laravel error image](/images/posts/laravel-error-1.png)
 
 [How Laravel facades work](http://www.sitepoint.com/how-laravel-facades-work-and-how-to-use-them-elsewhere/)
+
+[how to send email to activate account after use register](http://transmission.vehikl.com/do-more-during-registration-in-laravel-5/)
