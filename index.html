@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <title>
+        
+                    许博的博客
+                        
+    </title>
+    
+<link rel="stylesheet" href="/css/style.css">
+
+        
+<link rel="stylesheet" href="/css/gitment.css">
+
+            <link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/font_859455_eaq7v6w8ktj.css">
+<meta name="generator" content="Hexo 7.3.0"></head>
+<body>
+<header class="header">
+    <div class="header-inner">
+        <div class="header-title">
+
+        </div>
+        <nav class="header-nav">
+            
+            <a href="/" class="header-nav-link" >
+                首页
+            </a>
+            
+
+            
+            <a href="/archives" class="header-nav-link">
+                归档
+            </a>
+            
+
+            
+            <a href="/tags" class="header-nav-link">
+                标签
+            </a>
+            
+
+            
+            <a href="/about/" class="header-nav-link">
+                关于
+            </a>
+            
+        </nav>
+    </div>
+</header>
+<header class="mobile-header">
+    <div class="mobile-nav">
+        <div class="mobile-nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="mobile-nav-title">
+            <a href="/" class="mobile-nav-title-link">xuboso's Blog</a>
+        </div>
+
+    </div>
+    <nav class="mobile-menu">
+        <ul class="mobile-menu-list">
+            <li class="mobile-menu-item">
+                <i class="iconfont icon-home"></i>
+                <a href="/" class="mobile-nav-link">首页</a>
+            </li>
+            <li class="mobile-menu-item">
+                <i class="iconfont icon-archive"></i>
+                <a href="/archives" class="mobile-nav-link">归档</a>
+            </li>
+            <li class="mobile-menu-item">
+                <i class="iconfont icon-tag"></i>
+                <a href="/tags" class="mobile-nav-link">标签</a>
+            </li>
+            <li class="mobile-menu-item">
+                <i class="iconfont icon-about"></i>
+                <a href="/about/" class="mobile-nav-link">关于</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="main">
+    <div class="content-inner">
+        <div class="posts">
+    
+        <article class="post-abstract">
+            <div class="post-title">
+                <h2><a class="post-title-link" href="/2024/11/17/fix-git-submodule-no-url/">fix git submodule no url</a></h2>
+            </div>
+            <div class="post-meta">
+                <span class="post-time">2024-11-17</span>
+                
+            </div>
+            <div class="post-content">
+                
+                    <p>在使用hexo第三方主题，推送到gitub进行CI&#x2F;CD的时候，报了下面这个错误</p>
+<p><code>No url found for submodule path &#39;themes/sky&#39; in .gitmodules</code></p>
+<p><img src="/images/git-submodule-error.png" alt="/images/git-submodule-error"></p>
+<p>原因在于安装主题的时候只是按照常用的<code>git clone</code>方式，导致github获取不到git子仓库地址。</p>
+<p>可参考netlify.com上面的回答， 解决办法</p>
+<ol>
+<li><p>删除theme文件夹</p>
+</li>
+<li><p>将这次变更到git</p>
+</li>
+<li><p>重新用git submodule的方式clone仓库</p>
+</li>
+<li><p>更新submodule</p>
+</li>
+<li><p>可以用 <code>git submodule status </code>来检查是否成功，<code>.gitmodules </code>是否创建了</p>
+</li>
+</ol>
+<p><img src="/images/2024-11-17-git-submodule.png" alt="/images/git-submodule-error"></p>
+<h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://answers.netlify.com/t/error-checking-out-submodules-fatal-no-url-found-for-submodule-path-website-in-gitmodules/16435/7">https://answers.netlify.com/t/error-checking-out-submodules-fatal-no-url-found-for-submodule-path-website-in-gitmodules/16435/7</a></p>
+
+                
+            </div>
+        </article>
+    
+        <article class="post-abstract">
+            <div class="post-title">
+                <h2><a class="post-title-link" href="/2024/11/16/%E4%BD%BF%E7%94%A8hexo%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2/">使用hexo建立博客</a></h2>
+            </div>
+            <div class="post-meta">
+                <span class="post-time">2024-11-16</span>
+                
+                <span class="post-category">
+                    
+                    <a class="category" href="/categories/%E5%85%B6%E4%BB%96/">其他</a>
+                    
+                </span>
+                
+            </div>
+            <div class="post-content">
+                
+                    <h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<h3 id="使用hexo初始化"><a href="#使用hexo初始化" class="headerlink" title="使用hexo初始化"></a>使用hexo初始化</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo init &lt;project_name&gt;</span><br><span class="line"><span class="built_in">cd</span> &lt;project_name&gt;</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure>
+
+<p>根目录下的<code>_config.yml</code>是你系统的配置文件, <code>source</code>下的<code>_posts</code>文件夹是文章的存放路径</p>
+<h3 id="config-yml优先级"><a href="#config-yml优先级" class="headerlink" title="_config.yml优先级"></a>_config.yml优先级</h3><p>Hexo 配置文件中的 <code>theme_config</code> 的优先级最高，其次是 <code>_config.[theme].yml</code> 文件。 最后是位于主题目录下的 <code>_config.yml</code> 文件。比如默认有个<code>_config_landscape.yml</code>主题配置文件</p>
+<h3 id="写作配置"><a href="#写作配置" class="headerlink" title="写作配置"></a>写作配置</h3><p>默认用title生成文件，可以在<code>_config.yml</code>中配置生成带日期的前缀，修改<code>new_post_name</code>即可。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">new_post_name: :year-:month-:day-:title.md <span class="comment"># File name of new posts</span></span><br></pre></td></tr></table></figure>
+
+<p>标签的语法:</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">tags: </span><br><span class="line">  - hexo</span><br><span class="line">  - <span class="built_in">dd</span></span><br><span class="line">categories: </span><br><span class="line">  - 其他</span><br></pre></td></tr></table></figure>
+
+<h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><p>使用 <code>hexo new &quot;blog_title&quot;</code> 命令来新建一篇博客，生成的文件在<code>source/_posts</code>目录下</p>
+<h3 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<h3 id="完成后部署"><a href="#完成后部署" class="headerlink" title="完成后部署"></a>完成后部署</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy --generate</span><br></pre></td></tr></table></figure>
+
+<h3 id="指南"><a href="#指南" class="headerlink" title="指南"></a>指南</h3><p><a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/">https://hexo.io/zh-cn/docs/</a></p>
+<p><a target="_blank" rel="noopener" href="https://github.com/iJinxin/hexo-theme-sky">sky主题</a></p>
+
+                
+            </div>
+        </article>
+    
+</div>
+<div class="paginator">
+    
+        
+        
+    
+</div>
+
+    </div>
+</div>
+<footer class="footer-social">
+    
+
+    
+
+    
+
+    <div class="footer-copyright">
+        <p class="time-line">
+            &copy;
+            
+            
+            2024
+            &nbsp;<i class="iconfont icon-heart"></i>&nbsp;
+            <a target="_blank" href="https://github.com/iJinxin">xuboso</a>
+        </p>
+        <p class="theme-info">
+            Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  Theme -
+            <a target="_blank" href="https://github.com/iJinxin/hexo-theme-sky">Sky</a>
+        </p>
+    </div>
+</footer>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="/js/index.js"></script>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    
+
+</script>
+</html>
