@@ -6,7 +6,6 @@ layout: about
 
 ``` Rust
 fn main() {
-    println!("hello")
     println!("shut up && code !")
 }
 ```
