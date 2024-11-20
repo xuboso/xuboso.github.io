@@ -4,7 +4,7 @@ date: 2024-11-16 23:40:32
 layout: about
 ---
 
-``` Rust
+```Rust
 fn main() {
     println!("shut up && code !")
     println!("to be an excellent coder")
