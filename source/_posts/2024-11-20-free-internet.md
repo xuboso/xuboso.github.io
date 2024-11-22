@@ -7,3 +7,5 @@ tags:
 ### 科学上网分享
 
 [https://b.freev2.net/](https://b.freev2.net/)
+
+[https://github.com/Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
