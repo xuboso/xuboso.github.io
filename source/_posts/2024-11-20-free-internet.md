@@ -9,3 +9,5 @@ tags:
 [https://b.freev2.net/](https://b.freev2.net/)
 
 [https://github.com/Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
+
+[https://github.com/aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree)
