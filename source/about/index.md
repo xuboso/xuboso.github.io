@@ -8,6 +8,7 @@ layout: about
 fn main() {
     println!("shut up && code !")
     println!("to be an excellent coder")
+    println!("be professional")
     println!("to be a hacker")
     println!("start up a company")
 }
