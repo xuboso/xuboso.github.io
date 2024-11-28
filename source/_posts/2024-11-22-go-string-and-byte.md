@@ -49,6 +49,9 @@ s := string(b)        // []byte转换string
 bytes for mutability and versatility, 
 and runes for character-level operations.
 
+### 参考
+
+[https://go.dev/blog/strings](https://go.dev/blog/strings)
 
 [https://medium.com/@tyler_brewer2/bits-bytes-and-byte-slices-in-go-8a99012dcc8f](https://medium.com/@tyler_brewer2/bits-bytes-and-byte-slices-in-go-8a99012dcc8f)
 
