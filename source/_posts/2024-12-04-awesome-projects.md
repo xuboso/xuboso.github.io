@@ -118,6 +118,9 @@ neofetch 是一个漂亮的打印系统信息的命令行工具
 
 [https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 
+这人的 Shell 玩的飞起！！！
+[https://github.com/dylanaraps](https://github.com/dylanaraps)
+
 #### 引用
 
 [https://dev.to/olucasandrade/10-awesome-github-repositories-that-everyone-should-know-2pcp](https://dev.to/olucasandrade/10-awesome-github-repositories-that-everyone-should-know-2pcp)
@@ -149,3 +152,5 @@ neofetch 是一个漂亮的打印系统信息的命令行工具
 [https://github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
+[https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
