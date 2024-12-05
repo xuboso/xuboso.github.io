@@ -1,5 +1,5 @@
 ---
-title: goroutines pool
+title: goroutine pool
 date: 2024-12-05 21:57:07
 tags:
   - go
