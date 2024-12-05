@@ -99,6 +99,25 @@ fastify 是基于 node.js 的高效 web 框架
 
 [https://github.com/topics/backend](https://github.com/topics/backend)
 
+#### Temporal Workflow
+
+Temporal 是一个新兴的分布式的工作流引擎，可用于解决跨服务、跨时间周期的复杂业务流程等。
+[https://temporal.io/](https://temporal.io/)
+[https://code2life.top/blog/0070-temporal-notes](https://code2life.top/blog/0070-temporal-notes)
+
+#### Terraform
+
+Terraform 是一款由 HashiCorp 公司开发的开源基础设施即代码（Infrastructure as Code，简称 IaC）工具。
+包含基础设施自动化部署， 云服务资源管理，基础设施状态管理，版本控制集成，多环境一致性保障
+
+[https://www.terraform.io/](https://www.terraform.io/)
+
+#### neofetch
+
+neofetch 是一个漂亮的打印系统信息的命令行工具
+
+[https://github.com/dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+
 #### 引用
 
 [https://dev.to/olucasandrade/10-awesome-github-repositories-that-everyone-should-know-2pcp](https://dev.to/olucasandrade/10-awesome-github-repositories-that-everyone-should-know-2pcp)
