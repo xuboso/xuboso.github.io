@@ -121,6 +121,14 @@ neofetch 是一个漂亮的打印系统信息的命令行工具
 这人的 Shell 玩的飞起！！！
 [https://github.com/dylanaraps](https://github.com/dylanaraps)
 
+#### ligo 离线翻译
+
+[https://github.com/thewh1teagle/lingo](https://github.com/thewh1teagle/lingo)
+
+#### 离线翻译大模型
+
+[https://huggingface.co/docs/transformers/main/en/model_doc/m2m_100#overview](https://huggingface.co/docs/transformers/main/en/model_doc/m2m_100#overview)
+
 #### 引用
 
 [https://dev.to/olucasandrade/10-awesome-github-repositories-that-everyone-should-know-2pcp](https://dev.to/olucasandrade/10-awesome-github-repositories-that-everyone-should-know-2pcp)
