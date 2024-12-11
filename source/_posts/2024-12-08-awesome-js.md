@@ -4,6 +4,12 @@ date: 2024-12-08 22:15:36
 tags:
 ---
 
+[浏览器工作原理](https://developer.mozilla.org/zh-CN/docs/Web/Performance/How_browsers_work)
+
+[https://developer.mozilla.org/zh-CN/docs/Web/HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+
+[https://developer.mozilla.org/zh-CN/docs/Glossary/TCP](https://developer.mozilla.org/zh-CN/docs/Glossary/TCP)
+
 vanilla-js 是纯粹的 js，你可以从 vanilla.js 开始学习，而不是一开始就学习框架
 [https://github.com/snipcart/learn-vanilla-js](https://github.com/snipcart/learn-vanilla-js)
 
