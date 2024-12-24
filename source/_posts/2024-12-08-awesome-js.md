@@ -24,3 +24,9 @@ Svelte 是一个编译型的前端框架，与传统的 React、Vue 等虚拟 DO
 [https://github.com/sveltejs/svelte](https://github.com/sveltejs/svelte)
 
 ![/images/js框架比较.png](/images/js框架比较.png)
+
+Next UI
+
+[https://ui.shadcn.com/](https://ui.shadcn.com/)
+
+[https://nextui.org/](https://nextui.org/)
