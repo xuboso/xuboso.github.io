@@ -8,6 +8,10 @@ tags:
 
 计算机三大事: 计算，网络，存储。你要在这上面下狠功夫。
 
+> Don't feel you aren't smart enough
+>  
+> Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+
 ### 必备
 
 [https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md)
