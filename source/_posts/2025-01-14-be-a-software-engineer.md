@@ -9,12 +9,14 @@ tags:
 计算机三大事: 计算，网络，存储。你要在这上面下狠功夫。
 
 > Don't feel you aren't smart enough
->  
+>
 > Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 
 ### 必备
 
 [https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md)
+
+[https://roadmap.sh/backend?r=backend-beginner](https://roadmap.sh/backend?r=backend-beginner)
 
 [https://gitstar-ranking.com/repositories](https://gitstar-ranking.com/repositories)
 
@@ -43,3 +45,9 @@ tags:
 [春水煎茶](https://writings.sh/algorithms)
 
 [visual 可视算法运行过程](https://visualgo.net/en)
+
+### network
+
+[https://friskfrysefrugt.github.io/awesome-networking/](https://friskfrysefrugt.github.io/awesome-networking/)
+
+
