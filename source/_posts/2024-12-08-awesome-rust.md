@@ -11,3 +11,7 @@ tags:
 [https://github.com/tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
 
 [https://github.com/dioxuslabs/dioxus](https://github.com/dioxuslabs/dioxus)
+
+[https://github.com/mre/idiomatic-rust](https://github.com/mre/idiomatic-rust)
+
+[https://coberbooks.ru/category/rust/](https://coberbooks.ru/category/rust/)
