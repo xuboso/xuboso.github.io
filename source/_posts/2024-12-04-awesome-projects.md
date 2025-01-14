@@ -7,10 +7,6 @@ tags:
 
 ### 一些有趣的项目
 
-#### github repository rank
-
-[https://gitstar-ranking.com/repositories](https://gitstar-ranking.com/repositories)
-
 #### mkcert
 
 mkcert 可以方便的为你本地开的发域名配置 SSL
