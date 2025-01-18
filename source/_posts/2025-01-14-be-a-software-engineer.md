@@ -4,7 +4,7 @@ date: 2025-01-14 22:54:42
 tags:
 ---
 
-## How to be a software engineer
+### How to be a software engineer
 
 计算机三大事: 计算，网络，存储。你要在这上面下狠功夫。
 
@@ -48,6 +48,22 @@ tags:
 
 ### network
 
+[https://github.com/clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
+
+[https://github.com/kowsertusher/Book](https://github.com/kowsertusher/Book)
+
+[https://csdiy.wiki/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/topdown/](https://csdiy.wiki/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/topdown/)
+
 [https://friskfrysefrugt.github.io/awesome-networking/](https://friskfrysefrugt.github.io/awesome-networking/)
 
+[https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/)
 
+### others
+
+[Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+
+[https://google.github.io/building-secure-and-reliable-systems/raw/toc.html](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html)
+
+[https://blog.uxtly.com/freebsd-jails-network-setup](https://blog.uxtly.com/freebsd-jails-network-setup)
+
+[https://news.ycombinator.com/item?id=27650775](https://news.ycombinator.com/item?id=27650775)
